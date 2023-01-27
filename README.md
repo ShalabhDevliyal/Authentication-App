@@ -9,4 +9,4 @@ MongoDB-
 
 Project still in development phase.
 => Backend Done => Frontend in Development
-# (>__<) (O__O)
+# (O__O)
